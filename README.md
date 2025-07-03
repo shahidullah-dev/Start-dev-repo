@@ -1,4 +1,4 @@
 # Start-dev-repo
 this is my first repo 
-<br\>
-author - shahidullah
+<br>
+Author - shahidullah
